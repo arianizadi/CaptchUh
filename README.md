@@ -15,7 +15,7 @@
 
 ![Product Name Screen Shot](Images/MainWindow.png)
 
-In 2019, I was approached by my friends to assist in managing the overwhelming number of captcha verifications they were required to complete when purchasing online items. In order to fix this I had created CaptchUh, a tool to automate the actions of a human on a google account for captcha to be shown less often. This was my first larger project, that had about 50 people in the userbase.
+In 2018, I was approached by my friends to assist in managing the overwhelming number of captcha verifications they were required to complete when purchasing online items. In order to fix this I had created CaptchUh, a tool to automate the actions of a human on a google account for captcha to be shown less often. This was my first larger project, that had about 50 people in the userbase.
 
 ### Technologies Utilized
 
